@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"za.ac.aop.processor","l":"CallDetailProcessor"},{"p":"za.ac.aop.model","l":"DetailRecord"}];updateSearchResults();
